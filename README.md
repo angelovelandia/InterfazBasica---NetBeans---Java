@@ -1,4 +1,4 @@
-# InterfazBasica NetBeans Java 🥵
+# InterfazBasica NetBeans Java
 Diseño de interfaz básica de registro de usuario en JAVA con IDE Netbeans.
 
 Fue hecho en la versión 8.2 de Netbeans con JDK de Java 8.
